@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cardapio_Online
 
 **Resumo do Projeto: Cardápio Online com WhatsApp Integration**
@@ -32,3 +33,6 @@ Este projeto consiste em um sistema de cardápio online desenvolvido utilizando 
 
 Este projeto visa melhorar a experiência dos clientes ao fazer pedidos em um estabelecimento, tornando o processo mais conveniente e eficiente. A integração com o WhatsApp simplifica a comunicação e ajuda a estabelecer uma conexão direta entre clientes e o estabelecimento.
 
+=======
+# Menu-Online
+>>>>>>> 48ac373498c442cb73b7d5dc37a39b55fc0f419a
